@@ -1,0 +1,339 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color: rgb(103, 103, 121);
+    padding: 35px;
+    #icon{
+        color: black;
+        font-size: 50px;
+    }
+    a{
+        color: white;
+        font-size: 25px;
+        text-decoration: none;
+        padding: 0px 50px;
+    }
+    button{
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        margin-left: 50px;
+        padding: 15px 35px;
+        border-radius: 30px;
+    }
+}
+
+.body{
+    background-color: rgb(103, 103, 121);   
+    #b-h2{
+        font-size: 50px;
+        line-height: 65px;
+        padding-top: 50px;
+        padding-left: 150px;
+        padding-bottom: 0px;
+    }
+    button{
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        margin-left: 145px;
+        margin-top: 25px;
+        margin-bottom: 105px;
+        padding: 15px 50px;
+        border-radius: 30px;
+    }
+}
+.body2{
+    padding-top: 30px;
+    padding-left: 40px;
+    h2{
+        padding-bottom: 10px;
+    }
+    p{
+        font-size: 20px;
+        line-height: 28px;
+        text-align: justify;
+        padding-bottom: 30px;
+    }
+    #b2-p{
+        padding-bottom: 15px;
+    }
+    button{
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        margin-bottom: 50px;
+        padding: 15px 35px;
+        border-radius: 30px;
+    }
+}
+.body3{
+    background-color: black;
+    color: white;
+    padding-left: 40px;
+    padding-bottom: 100px;
+      button{
+        background-color: white;
+        color: black;
+        text-transform: capitalize;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: 25px;
+        margin-left: 250px;
+        padding: 15px 35px;
+        border-radius: 30px;
+    }
+    h3{
+        font-weight: normal;
+        line-height: 30px;
+        padding-bottom: 30px;
+    }
+}
+.b3-card{
+    background-color: white;
+    color: black;
+    width: 380px;
+    padding-bottom: 80px;
+    padding-right: 15px;
+    border-radius: 20px;
+    i{
+        font-size: 60px;
+        padding-top: 45px;
+        padding-left: 15px;
+    }
+    h2{
+        font-size: 30px;
+        padding-top: 15px;
+        padding-left: 15px;
+        padding-bottom: 10px;
+    }
+    p{
+        padding-left: 15px;
+        font-size: 20px;
+        line-height: 25px;
+    }
+}
+.body4{
+    padding-top: 70px;
+    text-align: center;
+    h1{
+        text-transform: capitalize;
+        display: block;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 40px;
+        padding-bottom: 15px;
+    }
+    p{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 25px;
+        padding-bottom: 20px;
+    }
+    button{
+        background-color: black;
+        color: white;
+        font-size: 20px;
+        margin-left: 50px;
+        padding: 15px 35px;
+        border-radius: 30px;
+    }
+}
+.b4-body{
+    padding-left: 450px;
+    padding-bottom: 80px    ;
+       img{
+        height: 330px;
+        padding-top: 45px;
+        padding-bottom: 20px;
+    }
+    h2{
+        padding-bottom: 8px;
+    }
+    p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    button{
+        background-color: black;
+        color: white;
+        font-size: 20px;
+        margin-top: 10px;
+        padding: 15px 35px;
+        border-radius: 30px;
+    }
+}
+.body5{
+    padding-left: 450px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #B14732;
+    color: white;
+    h2{
+        font-size: 36px;
+        padding-bottom: 15px;
+    }
+    p{
+        font-size: 22px;
+        padding-bottom: 15px;
+        text-align: justify;
+    }
+    button{
+        background-color: black;
+        color: white;
+        font-size: 20px;
+        margin-top: 10px;
+        padding: 15px 35px;
+        border-radius: 30px;
+    }
+}
+.body6{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 100px 0px;
+    h1{
+        padding-bottom: 25px;
+    }
+
+}
+.b6-card{
+    background-color:white;
+    color: black;
+    width: 200px;
+    margin: auto;
+    padding: 50px 5px;
+    border-radius: 30px;
+    i{
+        font-size: 40px;
+        padding-bottom: 10px;
+    }
+    p{
+        font-size: 20px;
+    }
+}
+.body7{
+    text-align: center;
+    padding-top: 80px;
+    h1{
+        padding-bottom: 15px;
+    }
+    h3{
+        padding-bottom: 15px;
+    }
+    #b7-h1{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    img{
+        width: 750px;
+        padding-left: 50px;
+        padding-bottom: 50px;
+    }
+}
+.b7-card{
+    background-color: black;
+    text-align: justify;
+    color: white;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+
+    p{
+        padding-top: 15px;
+        font-size: 20px;
+        line-height: 30px;
+        padding-bottom: 20px;
+    }
+
+    img{
+        padding-left: 60px;
+        height: 250px;
+        width: 280px;
+        border-radius: 30px;
+        padding-bottom: 20px;
+    }
+}
+.body8{
+    background-color:#B14732;
+    color: white;
+    padding-left: 400px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+
+    img{
+        width: fit-content;
+    }
+
+}
+
+.body9{
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    h1{
+        padding-bottom: 15px;
+        text-decoration: underline;
+    }
+    
+    h2{
+        padding-top: 10px;
+        line-height: 30px;
+        padding-bottom: 20px;
+    }
+    h3{
+        line-height: 30px;
+        padding-bottom: 20px;
+    }
+    form{
+        width:500px;
+        background-color: white;
+        color: black;
+        margin: auto;
+        padding-top: 20px;
+        padding-left: 20px;
+        margin-bottom: 20px;
+        border-radius: 30px;
+        
+        button{
+            background-color: black;
+            color: white;
+            font-size: 15px;
+            margin-bottom: 20px;
+            padding: 15px 35px;
+            border-radius: 30px;
+        }
+    }
+    a{
+        font-size: 20px;
+        color: white;
+        margin-bottom: 15px;
+    }
+    
+}
+
+.body10{
+    padding-left: 50px;
+    img{
+        padding-top: 50px;
+    }
+    p{
+        font-size: 18px;
+        line-height: 24px;
+        padding-bottom: 20px;
+    }
+    i{
+        font-size: 25px;
+        padding: 5px;
+        padding-bottom: 20px;
+    }
+}
+.body11{
+    text-align: center;
+    padding: 10px;
+}
